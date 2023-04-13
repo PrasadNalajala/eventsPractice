@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.noActive {
+  color: #64748b;
+  font-size: 25px;
+  text-align: center;
+}
+.activeTab {
+  background-color: #ffffff;
+  width: 50%;
+}
+.yetToImg {
+  height: 260px;
+}
+.yetToRegister {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+.registerBtn {
+  background-color: #0967d2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+}
+button {
+  background-color: #0967d2;
+  color: #ffffff;
+  border: 0;
+  height: 40px;
+  width: 90%;
+}
+p {
+  color: #64748b;
+  width: 90%;
+  text-align: center;
+}
+.register {
+  text-align: center;
+  color: #323f4b;
+}

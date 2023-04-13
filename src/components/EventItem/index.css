@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.eventImg {
+  height: 180px;
+  width: 100%;
+}
+.eventItem {
+  width: 48%;
+  margin: 5px;
+}
+.eventName {
+  font-size: 23px;
+}
+.itemPara {
+  color: #ffffff;
+  text-align: justify;
+}
+.eventBtn {
+  background-color: none;
+}
+li {
+  list-style-type: none;
+}

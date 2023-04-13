@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg {
+  background-color: #3a4b63;
+  width: 60%;
+  padding: 30px;
+}
+.eventsH1 {
+  margin: 0;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
+.eventsContainer {
+  color: #ffffff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 70%;
+  flex-wrap: wrap;
+}
+.bg-container {
+  display: flex;
+  justify-content: center;
+}
+.registrations {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+}
